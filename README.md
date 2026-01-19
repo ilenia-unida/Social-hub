@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Social Interface Ecosystem
 
-# Run and deploy your AI Studio app
+## Vision
+Hub professionale basato su un'interfaccia UI avanzata. La barra integra le diverse anime della mia attività, dimostrando capacità di frontend engineering e architettura di sistemi automatizzati.
 
-This contains everything you need to run your app locally.
+## Technical Stack
+- **Frontend**: React 19, TypeScript, Tailwind CSS.
+- **UI Architecture**: Glassmorphism con backdrop-filter dinamico.
+- **Logic**: Integrazione flussi n8n e modelli Google Gemini AI.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1KPt1b2HXiGqefJEhOgCXt8fTmYPqhWHz
+## Ecosystem & Social Functions
+- **Netlify (Portfolio)**: Showcase centrale dei servizi web e dei progetti frontend.
+- **GitHub (Code & Workflows)**: Repository tecnici e dimostrazione pratica di architetture di automazione.
+- **LinkedIn (Business Hub)**: Gestione delle relazioni professionali, networking B2B e consulenza AI.
+- **Substack (Ethical Insights)**: Pubblicazione di analisi etiche sull'AI tramite la newsletter Ethical Flow.
+- **YouTube (Video Demo)**: Archivio visivo per casi studio, tutorial e dimostrazioni pratiche di workflow.
 
-## Run Locally
+# Social Interface Ecosystem
 
-**Prerequisites:**  Node.js
+## Vision
+Hub professionale basato su un'interfaccia UI avanzata. La barra integra le diverse anime della mia attività, dimostrando capacità di frontend engineering e architettura di sistemi automatizzati.
 
+## Technical Stack
+- **Frontend**: React 19, TypeScript, Tailwind CSS.
+- **UI Architecture**: Glassmorphism con backdrop-filter dinamico.
+- **Logic**: Integrazione flussi n8n e modelli Google Gemini AI.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Ecosystem & Social Functions
+- **Netlify (Portfolio)**: Showcase centrale dei servizi web e dei progetti frontend.
+- **GitHub (Code & Workflows)**: Repository tecnici e dimostrazione pratica di architetture di automazione.
+- **LinkedIn (Business Hub)**: Gestione delle relazioni professionali, networking B2B e consulenza AI.
+- **Substack (Ethical Insights)**: Pubblicazione di analisi etiche sull'AI tramite la newsletter Ethical Flow.
+- **YouTube (Video Demo)**: Archivio visivo per casi studio, tutorial e dimostrazioni pratiche di workflow
+
+Sviluppato da Ilenia Unida - 2026
